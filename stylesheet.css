@@ -214,7 +214,7 @@ font-size: 1.5em;
     background: url(good.jpg);
     background-size: cover;
 }
-.contactForm
+.frmContact
 {
     padding: 75px 50px;
     background: #fff;
@@ -223,21 +223,21 @@ font-size: 1.5em;
     margin-top: 50PX;
 
 }
-.contactForm h3
+.frmContact h3
 {
   color: #111;
   font-size: 1.2em;
   margin-bottom: 20px;
   font-weight: 500;
 }
-.contactForm .inputBox
+.frmContact .inputBox
 {
     position: relative;
     width: 100%;
     margin-bottom: 20px;
 }
-.contactForm .inputBox input,
-.contactForm .inputBox textarea
+.frmContact .inputBox input,
+.frmContact .inputBox textarea
 {
     width: 100%;
     border: 1px solid #555;
@@ -247,7 +247,7 @@ font-size: 1.5em;
     font-size: 16px;
     font-weight: 300;
 }
-.contactForm .inputBox input[type="submit"]
+.frmContact .inputBox input[type="submit"]
 {
     font-size: 1em;
     color: #fff;
