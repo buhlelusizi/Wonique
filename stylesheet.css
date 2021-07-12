@@ -213,6 +213,7 @@ font-size: 1.5em;
 {
     background: url(good.jpg);
     background-size: cover;
+    heght: 100%;
 }
 .frmContact
 {
