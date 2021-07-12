@@ -16,7 +16,7 @@ body
 {
  min-height: 1000px;   
 }
-.banner
+#banner
 {
 position: relative;
 width: 100%;
@@ -209,7 +209,7 @@ font-size: 1.5em;
     font-weight: 400;
     color: #111;
 }
-.contact
+#contact
 {
     background: url(good.jpg);
     background-size: cover;
